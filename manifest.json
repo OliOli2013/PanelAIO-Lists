@@ -1,1 +1,19 @@
 
+[
+  {
+    "id": "bzyk_ncplus_hb",
+    "name": "Lista Bzyk83 NC+ Hotbird",
+    "author": "bzyk83",
+    "version": "2025-09-11",
+    "description": "Kompletna lista kanałów dla NC+ z satelity Hotbird 13E.",
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/bzyk_nc_2025-09-11.zip"
+  },
+  {
+    "id": "jakitaki_polsat_hb_astra",
+    "name": "Lista JakiTaki Polsat HB+Astra",
+    "author": "JakiTaki",
+    "version": "2025-09-10",
+    "description": "Lista dla Polsat Box z Hotbird i Astry.",
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/jakitaki_polsat_2025-09-10.zip"
+  }
+]
