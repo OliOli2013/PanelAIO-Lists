@@ -1,12 +1,20 @@
 
 [
   {
-    "id": "bzyk_ncplus_hb",
-    "name": "Lista Bzyk83 NC+ Hotbird",
+    "id": "bzyk_hb13e",
+    "name": "Lista Bzyk83 Hotbird 13e",
     "author": "bzyk83",
-    "version": "2025-09-11",
-    "description": "Kompletna lista kanałów dla NC+ z satelity Hotbird 13E.",
-    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/bzyk_nc_2025-09-11.zip"
+    "version": "2025-09-14",
+    "description": "Kompletna lista kanałów z satelity Hotbird 13E.",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/bzyk83%20hb_13E%202025-09-14.zip"
+  },
+  {
+    "id": "bzyk_dual",
+    "name": "Lista Bzyk83 Dual 13e 19e ",
+    "author": "bzyk83",
+    "version": "2025-09-14",
+    "description": "Kompletna lista kanałów z satelity Hotbird 13E oraz Astra 19e.",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/bzyk83%20hb_13E%202025-09-14.zip"
   },
   {
     "id": "jakitaki_polsat_hb_astra",
