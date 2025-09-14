@@ -5,22 +5,22 @@
     "author": "bzyk83",
     "version": "2025-09-14",
     "description": "Kompletna lista kanałów z satelity Hotbird 13E.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/bzyk83%20hb_13E%202025-09-14.zip"
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_hb_13E_2025-09-14.zip"
   },
   {
     "id": "bzyk_dual",
-    "name": "Lista Bzyk83 Dual 13e 19e ",
+    "name": "Lista Bzyk83 Dual 13e 19e",
     "author": "bzyk83",
     "version": "2025-09-14",
     "description": "Kompletna lista kanałów z satelity Hotbird 13E oraz Astra 19e.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/bzyk83%20dual_13e_19e%202025-09-14.zip"
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_dual_13e_19e_2025-09-14.zip"
   },
   {
-    "id": "jakitaki_1x1 uhd",
-    "name": "Lista JakiTaki 1x1 uhd ",
+    "id": "jakitaki_1x1_uhd",
+    "name": "Lista JakiTaki 1x1 uhd",
     "author": "JakiTaki",
     "version": "2025-09-14",
     "description": "Lista Hotbird i Astra.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/jakitaki_1x1uhd_2025-09-14.zip"
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/jakitaki_1x1uhd_2025-09-14.zip"
   }
 ]
