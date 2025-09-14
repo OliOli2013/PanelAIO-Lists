@@ -17,11 +17,11 @@
     "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/bzyk83%20dual_13e_19e%202025-09-14.zip"
   },
   {
-    "id": "jakitaki_polsat_hb_astra",
-    "name": "Lista JakiTaki Polsat HB+Astra",
+    "id": "jakitaki_1x1 uhd",
+    "name": "Lista JakiTaki 1x1 uhd ",
     "author": "JakiTaki",
-    "version": "2025-09-10",
-    "description": "Lista dla Polsat Box z Hotbird i Astry.",
-    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/jakitaki_polsat_2025-09-10.zip"
-  }
+    "version": "2025-09-14",
+    "description": "Lista Hotbird i Astra.",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/blob/main/archives/jakitaki_1x1uhd_14092025.zip"
+  },
 ]
