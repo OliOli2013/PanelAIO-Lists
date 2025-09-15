@@ -17,7 +17,7 @@
   },
   {
     "id": "jakitaki_1x1_uhd",
-    "name": "JakiTaki 13E IPTV",
+    "name": "JakiTaki 13E UHD",
     "author": "JakiTaki",
     "version": "2025-09-14",
     "description": "Lista Hotbird .",
@@ -25,7 +25,7 @@
   },
    {
     "id": "jakitaki_2x1_uhd",
-    "name": "JakiTaki 13E-19E IPTV",
+    "name": "JakiTaki 13E-19E UHD",
     "author": "JakiTaki",
     "version": "2025-09-14",
     "description": "Lista Hotbird-Astra .",
