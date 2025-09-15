@@ -22,6 +22,13 @@
     "version": "2025-09-14",
     "description": "Lista Hotbird .",
     "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/jakitaki_1x1uhd_2025-09-14.zip"
+  },
+   {
+    "id": "jakitaki_2x1_uhd",
+    "name": "JakiTaki 13E-19E IPTV",
+    "author": "JakiTaki",
+    "version": "2025-09-14",
+    "description": "Lista Hotbird-Astra .",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/jakitaki_2x1uhd_2025-09-14.zip"
   }
-  
 ]
