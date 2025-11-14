@@ -49,7 +49,7 @@
   },
   {
   "id": "zvirek_13_2x1",
-  "name": "Lista Zvirek 13.2x1",
+  "name": "Zvirek 13.2x1",
   "author": "Zvirek",
   "version": "2025-11-07",
   "description": "Lista kanałów Zvirek.",
@@ -57,7 +57,7 @@
 },
 {
   "id": "zvirek_iptv",
-  "name": "Lista Zvirek IPTV",
+  "name": "Zvirek IPTV",
   "author": "Zvirek",
   "version": "2025-11-07",
   "description": "Lista kanałów IPTV.",
