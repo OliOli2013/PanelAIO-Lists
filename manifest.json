@@ -47,4 +47,20 @@
     "description": "Lista Hotbird-Astra .",
     "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/refs/heads/main/archives/jakitaki_2x1uhd_2025-10-02.zip"
   }
+  {
+  "id": "zvirek_13_2x1",
+  "name": "Lista Zvirek 13.2x1",
+  "author": "Zvirek",
+  "version": "2025-11-07",
+  "description": "Lista kanałów Zvirek.",
+  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/zvirek13.2x1.07.11.25.zip"
+},
+{
+  "id": "zvirek_iptv",
+  "name": "Lista Zvirek IPTV",
+  "author": "Zvirek",
+  "version": "2025-11-07",
+  "description": "Lista kanałów IPTV.",
+  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/zvirek13.2x1.IPTV.07.11.25.zip"
+}
 ]
