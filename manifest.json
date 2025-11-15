@@ -62,5 +62,75 @@
   "version": "2025-11-07",
   "description": "Lista kanałów IPTV.",
   "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/zvirek13.2x1.IPTV.07.11.25.zip"
+},
+  {
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Muzyczne",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.iptv-muzyczne-azman.tv",
+    "bouquet_id": "userbouquet.iptv-muzyczne-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Okru VK",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.iptv-okru-vk-azman.tv",
+    "bouquet_id": "userbouquet.iptv-okru-vk-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - PL Regionalne YT",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.iptv-pl-regionalne-yt-radio-azman.tv",
+    "bouquet_id": "userbouquet.iptv-pl-regionalne-yt-radio-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - TVP",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.iptv-tvp-azman.tv",
+    "bouquet_id": "userbouquet.iptv-tvp-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Xiaomi TV",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.iptv-xiaomi-tv-pl-azman.tv",
+    "bouquet_id": "userbouquet.iptv-xiaomi-tv-pl-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - YT Artflix",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.iptv-yt-artflix-pl-azman.tv",
+    "bouquet_id": "userbouquet.iptv-yt-artflix-pl-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Kamery Internetowe",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.kamery-internetowe-pl-azman.tv",
+    "bouquet_id": "userbouquet.kamery-internetowe-pl-azman.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Kamery Toya",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.kamery-toya-rysiek_52.tv",
+    "bouquet_id": "userbouquet.kamery-toya-rysiek_52.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Stacje Radiowe ZET",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.polskie-stacje-radiowe-zet71.tv",
+    "bouquet_id": "userbouquet.polskie-stacje-radiowe-zet71.tv"
+},
+{
+    "type": "BOUQUET",
+    "name": "Bukiet Azman - Rakuten TV",
+    "author": "Azman",
+    "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.rakuten_tv_pl.tv",
+    "bouquet_id": "userbouquet.rakuten_tv_pl.tv"
 }
 ]
