@@ -1,21 +1,5 @@
 [
   {
-    "id": "pawel_pawelek_hb13e",
-    "name": "Paweł Pawełek Hotbird 13E",
-    "author": "Paweł Pawełek",
-    "version": "2026-01-24",
-    "description": "Autorska lista kanałów z satelity Hotbird 13E (Paweł Pawełek).",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Pawel_Pawelek_HB_13E_24.01.2026.zip"
-  },
-  {
-    "id": "pawel_pawelek_dual",
-    "name": "Paweł Pawełek Dual 13E + 19.2E",
-    "author": "Paweł Pawełek",
-    "version": "2026-01-24",
-    "description": "Autorska lista kanałów z satelitów Hotbird 13E oraz Astra 19.2E (Paweł Pawełek).",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Pawel_Pawelek_DUAL_13E_19.2E_24.01.2026.zip"
-  },
-  {
     "id": "bzyk_hb13e",
     "name": "Bzyk83 Hotbird 13e",
     "author": "bzyk83",
@@ -30,6 +14,22 @@
     "version": "2025-12-08",
     "description": "Kompletna lista kanałów z satelity Hotbird 13E oraz Astra 19e.",
     "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_dual_13e_19e_2025-12-08.zip"
+  },
+  {
+    "id": "pawel_pawelek_hb13e",
+    "name": "Paweł Pawełek Hotbird 13E",
+    "author": "Paweł Pawełek",
+    "version": "2026-01-24",
+    "description": "Autorska lista kanałów z satelity Hotbird 13E (Paweł Pawełek).",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Pawel_Pawelek_HB_13E_24.01.2026.zip"
+  },
+  {
+    "id": "pawel_pawelek_dual",
+    "name": "Paweł Pawełek Dual 13E + 19.2E",
+    "author": "Paweł Pawełek",
+    "version": "2026-01-24",
+    "description": "Autorska lista kanałów z satelitów Hotbird 13E oraz Astra 19.2E (Paweł Pawełek).",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Pawel_Pawelek_DUAL_13E_19.2E_24.01.2026.zip"
   },
   {
     "id": "jakitaki_1x1",
