@@ -3,17 +3,25 @@
     "id": "bzyk_hb13e",
     "name": "Bzyk83 Hotbird 13e",
     "author": "bzyk83",
-    "version": "2026-01-31",
+    "version": "2026-02-09",
     "description": "Kompletna lista kanałów z satelity Hotbird 13E.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_hb_13E_2026_01_31.zip"
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_hb_13E_2026_02_09.zip"
   },
   {
     "id": "bzyk_dual",
     "name": "Bzyk83 Dual 13e 19e",
     "author": "bzyk83",
-    "version": "2025-12-08",
-    "description": "Kompletna lista kanałów z satelity Hotbird 13E oraz Astra 19e.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_dual_13e_19e_2025-12-08.zip"
+    "version": "2026-02-09",
+    "description": "Kompletna lista kanałów z satelity Hotbird 13E oraz Astra 19E.",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_dual_13e_19e_2026_02_09.zip"
+  },
+  {
+    "id": "bzyk_5x1",
+    "name": "Bzyk83 5x1 13e 19e 16e 23e 28e",
+    "author": "bzyk83",
+    "version": "2026-02-09",
+    "description": "Kompletna lista kanałów z satelity HB 13E, Astra (19E; 23E;28E), Eutelsat 16E",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/bzyk83_5x1_13e_19e_16e_23e_28e_2026_02_09.zip"
   },
   {
     "id": "pawel_pawelek_hb13e",
