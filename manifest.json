@@ -1,11 +1,11 @@
 [
-{  
-  "id": "polska_13e_aio_panel",
-  "name": "Polska 13E AIO Panel",
-  "author": "AIO Panel",
-  "version": "2026-07-04",
-  "description": "Polska lista 13E AIO Panel: bukiety PL, pozostałe bukiety satelitarne Vhannibal oraz bukiety Azman.",
-  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_AIO_Panel.zip"
+  {
+    "id": "polska_13e_aio_panel",
+    "name": "Polska 13E AIO Panel",
+    "author": "xxx",
+    "version": "2026-07-04",
+    "description": "Polska lista 13E AIO Panel: bukiety PL, pozostałe bukiety satelitarne Vhannibal oraz bukiety Azman.",
+    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_AIO_Panel.zip"
   },
   {
     "id": "bzyk_hb13e",
