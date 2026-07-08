@@ -8,20 +8,20 @@
   "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/ANUBIS_HOT_BIRD_13E_POLSKA.zip"
   },
   {
-  "id": "polska_13e_19e_aio_panel",
-  "name": "Polska 13E 19.2E AIO Panel",
-  "author": "AIO Team",
-  "version": "2026-07-08",
-  "description": "Polska lista AIO Panel dla Hot Bird 13E i Astra 19.2E: aktualna baza 13E, komplet bukietów Astra 19.2E z Vhannibal Dual Feeds 5.07.2026, dodany SKY DE iCam, Azman bez zmian.",
-  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_19E_AIO_Panel.zip"
-  },
-  {
   "id": "polska_13e_aio_panel",
   "name": "Polska 13E AIO Panel",
   "author": "AIO Team",
   "version": "2026-07-08",
   "description": "Polska lista 13E AIO Panel: bukiety PL, pozostałe bukiety satelitarne Vhannibal oraz bukiety Azman.",
   "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_AIO_Panel.zip"
+  },
+  {
+  "id": "polska_13e_19e_aio_panel",
+  "name": "Polska 13E 19.2E AIO Panel",
+  "author": "AIO Team",
+  "version": "2026-07-08",
+  "description": "Polska lista AIO Panel dla Hot Bird 13E i Astra 19.2E: aktualna baza 13E, komplet bukietów Astra 19.2E z Vhannibal Dual Feeds 5.07.2026, dodany SKY DE iCam, Azman bez zmian.",
+  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_19E_AIO_Panel.zip"
   },
   {
     "id": "pawel_pawelek_hb13e",
