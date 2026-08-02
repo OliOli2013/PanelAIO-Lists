@@ -55,6 +55,14 @@
     "description": "Lista kanałów M@rio z dnia 14.07.2026.",
     "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/M%40rio_14-07-2026.zip"
   },
+   {
+    "id": "mario_02.08.2026",
+    "name": "M@rio 13E",
+    "author": "M@rio",
+    "version": "2026-08-02",
+    "description": "Lista kanałów M@rio z dnia 02.08.2026.",
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/M%40rio_02-08-2026.zip"
+  },
   {
     "id": "pawel_pawelek_hb13e",
     "name": "Paweł Pawełek Hotbird 13E",
