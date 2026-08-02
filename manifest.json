@@ -1,5 +1,21 @@
 [
 {
+  "id": "zvirek13_2x1_06_07_26",
+  "name": "zvirek13 2x1 06.07.26",
+  "author": "zvirek13",
+  "version": "2026-07-06",
+  "description": "Lista kanałów zvirek13 2x1 z dnia 06.07.2026, przygotowana do instalacji z AIO Panel bez zmian w zawartości listy.",
+  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/zvirek13%202x1%2006.07.26.zip"
+},
+{
+  "id": "zvirek13_2x1_iptv_06_07_26",
+  "name": "zvirek13 2x1 IPTV 06.07.26",
+  "author": "zvirek13",
+  "version": "2026-07-06",
+  "description": "Lista kanałów zvirek13 2x1 IPTV z dnia 06.07.2026, przygotowana do instalacji z AIO Panel bez zmian w zawartości listy.",
+  "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/zvirek13%202x1%20IPTV%2006.07.26.zip"
+} 
+{
     "id": "anubis_hot_bird_13e_polska",
     "name": "ANUBIS HOT BIRD 13E POLSKA",
     "author": "Anubis",
