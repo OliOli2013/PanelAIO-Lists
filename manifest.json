@@ -5,7 +5,7 @@
     "author": "zvirek13",
     "version": "2026-08-04",
     "description": "Lista kanałów zvirek13 2x1 z dnia 04.08.2026, przygotowana do instalacji z AIO Panel. Twórca AIO Panel nie odpowiada za zawartość, działanie ani aktualność listy.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/zvirek13%202x1%2004.08.26.zip"
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/zvirek13%202x1%2004.08.26.zip"
   },
   {
     "id": "anubis_hot_bird_13e_polska",
@@ -28,7 +28,7 @@
     "name": "Polska 13E 19.2E AIO Panel",
     "author": "AIO Team",
     "version": "2026-08-09",
-    "description": "Polska lista AIO Panel dla Hot Bird 13E i Astra 19.2E: aktualna baza Vhannibal Dual Feeds z dnia 09.08.2026, zachowany układ bukietów AIO Panel, SKY DE iCam i bukiety Azman.",
+    "description": "Polska lista AIO Panel dla Hot Bird 13E i Astra 19.2E: aktualna baza Vhannibal Dual Feeds z dnia 09.08.2026, zachowany układ bukietów AIO Panel, SKY DE iCam oraz bukiety Azman.",
     "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_19E_AIO_Panel.zip"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Polska 13E 19.2E 16E 23E AIO Panel",
     "author": "AIO Team",
     "version": "2026-08-09",
-    "description": "Polska lista AIO Panel dla Hot Bird 13E, Astra 19.2E, Eutelsat 16E oraz Astra 23.5E: baza Vhannibal Multi z dnia 09.08.2026, zachowany układ bukietów AIO Panel oraz bukiety Azman.",
+    "description": "Polska lista AIO Panel dla Hot Bird 13E, Astra 19.2E, Eutelsat 16E oraz Astra 23.5E: aktualna baza Vhannibal Multi z dnia 09.08.2026, zachowany układ bukietów AIO Panel oraz bukiety Azman.",
     "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Polska_13E_19E_16E_23E_AIO_Panel.zip"
   },
   {
@@ -53,7 +53,7 @@
     "author": "",
     "version": "2026-08-09",
     "description": "Autorska lista kanałów Hot Bird 13E (Paweł Pawełek), zaktualizowana na bazie Vhannibal 09.08.2026.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Pawel_Pawelek_HB_13E_09.08.2026.zip"
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/Pawel_Pawelek_HB_13E_09.08.2026.zip"
   },
   {
     "id": "pawel_pawelek_dual",
@@ -61,7 +61,7 @@
     "author": "",
     "version": "2026-08-09",
     "description": "Autorska lista kanałów Hot Bird 13E + Astra 19.2E (Paweł Pawełek), zaktualizowana na bazie Vhannibal 09.08.2026.",
-    "url": "https://github.com/OliOli2013/PanelAIO-Lists/raw/main/archives/Pawel_Pawelek_DUAL_13E_19.2E_09.08.2026.zip"
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/Pawel_Pawelek_DUAL_13E_19.2E_09.08.2026.zip"
   },
   {
     "id": "jakitaki_1x1",
@@ -156,7 +156,7 @@
     "name": "Bukiet Azman - Stacje Radiowe ZET",
     "author": "Azman",
     "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.polskie-stacje-radiowe-zet71.tv",
-    "bouquet_id": "userbouquet.polskie-stacje-radiowe-zet71.tv"
+    "bouquet_id": "userbouquet.iptv-polskie-stacje-radiowe-zet71.tv"
   },
   {
     "type": "BOUQUET",
