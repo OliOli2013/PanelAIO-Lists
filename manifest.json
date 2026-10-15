@@ -47,7 +47,7 @@
     "description": "Lista kanałów  Hot Bird 13E",
     "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/M%40rio_23-08-2026.zip"
   },
-   {
+  {
     "id": "m@rio_13E_19,2E_23-08-2026",
     "name": "M@rio 13E 19.2E",
     "author": "M@rio",
@@ -172,5 +172,13 @@
     "author": "Azman",
     "url": "https://raw.githubusercontent.com/azman26/azmanIPTVsettings/main/userbouquet.rakuten_tv_pl.tv",
     "bouquet_id": "userbouquet.rakuten_tv_pl.tv"
+  },
+  {
+    "id": "community_6c3c43fc0ff9454d82c60277eca1acc8",
+    "name": "AIO Community Demo 13E FTA - Informacje PL EN DE FR ES IT UA",
+    "author": "Paweł Pawełek",
+    "version": "2026-10-15",
+    "description": "Demonstracyjna lista Hot Bird 13E FTA z wielojęzycznym bukietem informacyjnym PL/EN/DE/FR/ES/IT/UA. Informuje o edytorze list AIO IPTV i możliwości zgłaszania własnych list do AIO Panel. Bazę FTA oparto na autorskiej liście AIO Team z 11.10.2026. UWAGA: instalacja zastępuje aktualne bukiety TV; przed instalacją wykonaj backup.",
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/Community_6c3c43fc0ff9454d82c60277eca1acc8.zip"
   }
 ]
