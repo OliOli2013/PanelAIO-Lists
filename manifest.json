@@ -180,5 +180,13 @@
     "version": "2026-10-15",
     "description": "Demonstracyjna lista Hot Bird 13E FTA z wielojęzycznym bukietem informacyjnym PL/EN/DE/FR/ES/IT/UA. Informuje o edytorze list AIO IPTV i możliwości zgłaszania własnych list do AIO Panel. Bazę FTA oparto na autorskiej liście AIO Team z 11.10.2026. UWAGA: instalacja zastępuje aktualne bukiety TV; przed instalacją wykonaj backup.",
     "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/Community_6c3c43fc0ff9454d82c60277eca1acc8.zip"
+  },
+  {
+    "id": "community_4c2070c02e6a4705b7d35cbb81e99484",
+    "name": "Luuu T 16/10/2026",
+    "author": "Luuu T",
+    "version": "2026-10-16",
+    "description": "Nowa lista",
+    "url": "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Lists/main/archives/Community_4c2070c02e6a4705b7d35cbb81e99484.zip"
   }
 ]
